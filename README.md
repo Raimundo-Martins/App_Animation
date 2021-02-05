@@ -1,4 +1,4 @@
-# animations_flutter
+# Aplicativo de Animações no Flutter
 
 A new Flutter project.
 
